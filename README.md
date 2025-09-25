@@ -1,5 +1,7 @@
 # Knowledge Graph Pipeline
 
+![Marie Curie](https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Curie-Nobel-portrait-600.jpg)
+
 A powerful Python pipeline for extracting entities and relationships from PDF documents, enriching them with Google Knowledge Graph, and storing them in a Neo4j graph database.
 
 ## Features
@@ -138,7 +140,9 @@ Customize the `refine_with_kg` method to change how entities are enriched with k
 
 ## License
 
-[Your License Here]
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 
